@@ -5,5 +5,5 @@
 or
 - 나중에 우리 블로그 만들기!(지킬 기반)
 
-[메인화면~](https://team-prod.github.io)
+[메인화면~](https://team-prod.github.io)  
 [그냥 테스트로 만들어본 화면~](https://team-prod.github.io/navigation)
